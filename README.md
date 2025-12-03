@@ -1,7 +1,5 @@
-# MLOps End-to-End Example Using AWS SageMaker, Lambda, and DynamoDB
-This sample machine learning project demonstrates how we automate ticket dispatching using a serverless, production-ready MLOps workflow on AWS. It showcases how an end-to-end system can classify incoming incident tickets, predict the correct support team, and automatically dispatch them to Microsoft Teams and assign agent to the ticket on the company ITSM (iTop).
-
-The solution uses Amazon SageMaker, AWS Lambda, S3, DynamoDB, and EFS, along with schedule-driven orchestration. It also illustrates how data preprocessing, model training, and ticket routing can be integrated into a scalable pipeline suitable for real-world IT operations.
+# End-to-End Serverless MLOps Pipeline Using AWS SageMaker, Lambda, and DynamoDB
+This sample machine learning project demonstrates how we automate ticket dispatching using a serverless, production-ready MLOps workflow on AWS using Amazon SageMaker, AWS Lambda, S3, DynamoDB, and EFS.
 
 # Architecture
 <p align="center">
