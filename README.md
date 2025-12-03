@@ -3,5 +3,5 @@ Automated Machine Learning ticket dispatch system that predicts ticket team and 
 
 # Architecture
 <p align="center">
-  <img src="architecture/ml-ticket-dispatcher.png" alt="ML Ticket Dispatcher Architecture" width="700">
+  <img src="docs/ml-ticket-dispatcher.png" alt="ML Ticket Dispatcher Architecture" width="700">
 </p>
