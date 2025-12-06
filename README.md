@@ -1,5 +1,5 @@
 # End-to-End Serverless MLOps Pipeline Using AWS SageMaker, Lambda, and DynamoDB
-This sample machine learning project demonstrates how we automate ticket dispatching using a serverless, production-ready MLOps workflow on AWS using Amazon SageMaker, AWS Lambda, S3, DynamoDB, and EFS.
+This repo covers how I put together a serverless workflow on AWS to automate IT ticket routing. The setup uses SageMaker for the model and Lambda/DynamoDB/S3 for the rest of the pipeline.
 
 # Architecture
 <p align="center">
